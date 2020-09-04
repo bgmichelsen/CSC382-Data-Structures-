@@ -6,5 +6,6 @@ The class had us create several different data structures in our language of cho
 - Doubly Linked List
 - Binary Search Tree
 - Hash Table
+
 In addition, we had to implement sorting algorithms on our Linked List and test a known graph library to see the various algorithms for graphs. 
 We also learned Big-O notation and how to find the Big-O of a program.
